@@ -8,6 +8,7 @@ The official XDA blog for getting multi-control is there https://xdaforums.com/t
 (Just do remember it, as we have remove it later on in the process)
 Prefer "CONTINUITY_MSG_SPP", if not available then go with other options.
 
+-> The "setting.wa" file is not madtory to be added in SamSys folder, but if was present as a patch that i faced.
 
 
 -> This alone does't worked for me.I used the second method and that worked flawlessly.
@@ -17,3 +18,5 @@ Issue that I faced: the multicontrol feature was not showing my device(or any de
 I used the second method and that worked flawlessly.
 
 NOTE: restart your pc fewer times before going and tring the next method, as it has solved problem for some user, as per the comments in the XDA blog.
+
+
